@@ -1,9 +1,10 @@
-.venv/
 .env
+.venv/
 origin/
-chroma/
+documents/
 *.docx
 *.doc
+chroma/
 .ipynb_checkpoints/
 inflearn-lectures/
 .DS_Store
